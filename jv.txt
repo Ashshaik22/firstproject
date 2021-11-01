@@ -8,5 +8,7 @@ constructor
 collections
 lambda
 
+streams
+files
 
 thank you
